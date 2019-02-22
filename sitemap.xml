@@ -93,13 +93,13 @@
   </url>
   
   <url>
-    <loc>https://joshstepp.com/tags/books/</loc>
+    <loc>https://joshstepp.com/categories/books/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joshstepp.com/categories/books/</loc>
+    <loc>https://joshstepp.com/tags/books/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -111,13 +111,13 @@
   </url>
   
   <url>
-    <loc>https://joshstepp.com/tags/infosec/</loc>
+    <loc>https://joshstepp.com/categories/infosec/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joshstepp.com/categories/infosec/</loc>
+    <loc>https://joshstepp.com/tags/infosec/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -129,13 +129,13 @@
   </url>
   
   <url>
-    <loc>https://joshstepp.com/tags/malware-analysis/</loc>
+    <loc>https://joshstepp.com/categories/malware-analysis/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joshstepp.com/categories/malware-analysis/</loc>
+    <loc>https://joshstepp.com/tags/malware-analysis/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -157,13 +157,13 @@
   </url>
   
   <url>
-    <loc>https://joshstepp.com/tags/project/</loc>
+    <loc>https://joshstepp.com/categories/project/</loc>
     <lastmod>2017-12-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joshstepp.com/categories/project/</loc>
+    <loc>https://joshstepp.com/tags/project/</loc>
     <lastmod>2017-12-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -179,25 +179,25 @@
   </url>
   
   <url>
-    <loc>https://joshstepp.com/tags/thoughts/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://joshstepp.com/categories/thoughts/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://joshstepp.com/tags/tutorial/</loc>
-    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+    <loc>https://joshstepp.com/tags/thoughts/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://joshstepp.com/categories/tutorial/</loc>
+    <lastmod>2019-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://joshstepp.com/tags/tutorial/</loc>
     <lastmod>2019-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
