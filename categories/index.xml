@@ -31,9 +31,18 @@
     </item>
     
     <item>
+      <title>Ics</title>
+      <link>https://joshstepp.com/categories/ics/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://joshstepp.com/categories/ics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Infosec</title>
       <link>https://joshstepp.com/categories/infosec/</link>
-      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joshstepp.com/categories/infosec/</guid>
       <description></description>
@@ -69,7 +78,7 @@
     <item>
       <title>Thoughts</title>
       <link>https://joshstepp.com/categories/thoughts/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://joshstepp.com/categories/thoughts/</guid>
       <description></description>
